@@ -1,0 +1,5 @@
+link = "www.baidu.com"
+email = "alice@example.com"
+name = "WaitBright"
+[zh-cn]
+    name = "邓小明"

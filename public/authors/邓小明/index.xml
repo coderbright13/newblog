@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>邓小明 - 作者 - 邓小明的个人空间</title>
+        <link>http://example.org/authors/%E9%82%93%E5%B0%8F%E6%98%8E/</link>
+        <description>邓小明 - 作者 - 邓小明的个人空间</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>2652214420@qq.com (邓小明)</managingEditor>
+            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</lastBuildDate><atom:link href="http://example.org/authors/%E9%82%93%E5%B0%8F%E6%98%8E/" rel="self" type="application/rss+xml" /><item>
+    <title>Helloworld2</title>
+    <link>http://example.org/helloworld2/</link>
+    <pubDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</pubDate><author>
+                    <name>邓小明</name>
+                </author><guid>http://example.org/helloworld2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/avatar.png" referrerpolicy="no-referrer">
+            </div><p>三星
+apple</p>]]></description>
+</item></channel>
+</rss>
