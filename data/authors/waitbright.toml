@@ -1,5 +1,6 @@
 link = "https://waitbright.tech/"
 email = "2652214420@qq.com"
 name = "WaitBright"
+avatar = "/images/avatar.webp"
 [zh-cn]
     name = "邓小明"
