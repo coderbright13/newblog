@@ -10,6 +10,15 @@ apple
 - 美国
 - 法国
 
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello")
+}
+```
 
 ## 随便写写
 这是一个很长的故事，需要慢慢道来。

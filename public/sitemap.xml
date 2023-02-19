@@ -2,27 +2,21 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/theme-documentation-basics/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/series/aa/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/authors/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/categories/good/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/helloworld2/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/test/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/authors/%E9%82%93%E5%B0%8F%E6%98%8E/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/series/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/first_post/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/hello/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/showcase/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/authors/dillon/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/series/getting-start/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/authors/pcloud/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/categories/documentation/</loc><lastmod>2023-02-13T00:31:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/configuration/</loc><lastmod>2023-01-01T00:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/content/</loc><lastmod>2023-01-01T00:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/installation/</loc><lastmod>2023-01-01T00:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/offline/</loc><lastmod>2023-01-01T00:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://waitbright.tech/series/aa/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/authors/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/categories/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/categories/good/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/helloworld2/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/posts/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/tags/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/tags/test/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/authors/%E9%82%93%E5%B0%8F%E6%98%8E/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/about/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/tags/configuration/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/tags/content/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/tags/installation/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/offline/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/archives/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/categories/documentation/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waitbright.tech/series/</loc><lastmod>2023-02-19T04:46:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

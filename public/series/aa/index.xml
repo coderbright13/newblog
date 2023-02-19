@@ -1,25 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>aa - 系列 - 邓小明的个人空间</title>
-        <link>http://example.org/series/aa/</link>
+        <link>https://waitbright.tech/series/aa/</link>
         <description>aa - 系列 - 邓小明的个人空间</description>
         <generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>2652214420@qq.com (邓小明)</managingEditor>
-            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</lastBuildDate><atom:link href="http://example.org/series/aa/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</lastBuildDate><atom:link href="https://waitbright.tech/series/aa/" rel="self" type="application/rss+xml" /><item>
     <title>Helloworld2</title>
-    <link>http://example.org/helloworld2/</link>
+    <link>https://waitbright.tech/helloworld2/</link>
     <pubDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</pubDate><author>
                     <name>邓小明</name>
-                </author><guid>http://example.org/helloworld2/</guid>
+                </author><guid>https://waitbright.tech/helloworld2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/avatar.png" referrerpolicy="no-referrer">
             </div><p>三星
 apple</p>]]></description>
-</item><item>
-    <title>First_post</title>
-    <link>http://example.org/first_post/</link>
-    <pubDate>Sun, 18 Dec 2022 00:31:07 &#43;0800</pubDate><author>
-        <name>邓小明</name>
-    </author><guid>http://example.org/first_post/</guid>
-    <description><![CDATA[Testthis is my first post. 1 我是谁 abc sdd 1.1 hugo is a good tool 1 2 3 4 5 6 7 package main import &#34;fmt&#34; func main() { fmt.Println(&#34;hello&#34;) }]]></description>
 </item></channel>
 </rss>
