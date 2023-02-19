@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>邓小明的个人空间</title>
-        <link>https://waitbright.tech/</link>
-        <description>邓小明的个人空间</description>
+        <title>数组 - 标签 - 邓小明的个人空间</title>
+        <link>https://waitbright.tech/tags/%E6%95%B0%E7%BB%84/</link>
+        <description>数组 - 标签 - 邓小明的个人空间</description>
         <generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>2652214420@qq.com (邓小明)</managingEditor>
-            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</lastBuildDate>
-            <atom:link href="https://waitbright.tech/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</lastBuildDate><atom:link href="https://waitbright.tech/tags/%E6%95%B0%E7%BB%84/" rel="self" type="application/rss+xml" /><item>
     <title>剑指offer(Go版本)-数组</title>
     <link>https://waitbright.tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
     <pubDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</pubDate><author>

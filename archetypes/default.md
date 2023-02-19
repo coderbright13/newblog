@@ -4,7 +4,7 @@ subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
-authors: ["邓小明"]
+authors: ["waitbright"]
 description: ""
 
 tags: [""]
@@ -23,5 +23,8 @@ math:
   enable: true
 lightgallery: false
 license: ""
+
+comment:
+  enable: true
 ---
 
