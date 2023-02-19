@@ -1,19 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>PCloud - 作者 - 邓小明的个人空间</title>
-        <link>http://example.org/authors/pcloud/</link>
+        <link>https://waitbright.tech/authors/pcloud/</link>
         <description>PCloud - 作者 - 邓小明的个人空间</description>
         <generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>2652214420@qq.com (邓小明)</managingEditor>
-            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Tue, 03 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="http://example.org/authors/pcloud/" rel="self" type="application/rss+xml" /><item>
-    <title>主题文档 - 基本概念</title>
-    <link>http://example.org/theme-documentation-basics/</link>
-    <pubDate>Tue, 03 Mar 2020 21:40:32 &#43;0800</pubDate><author>
-                    <name>Dillon</name>
-                </author><author>
-                    <name>PCloud</name>
-                </author><guid>http://example.org/theme-documentation-basics/</guid>
+            <webMaster>2652214420@qq.com (邓小明)</webMaster><copyright>邓小明</copyright><lastBuildDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</lastBuildDate><atom:link href="https://waitbright.tech/authors/pcloud/" rel="self" type="application/rss+xml" /><item>
+    <title>Helloworld2</title>
+    <link>https://waitbright.tech/helloworld2/</link>
+    <pubDate>Sun, 01 Jan 2023 00:40:36 &#43;0800</pubDate><author>
+                        <name>邓小明</name><uri>https://waitbright.tech/</uri><email>2652214420@qq.com</email></author><author>
+                        <name>PCloud</name><uri>https://github.com/HEIGE-PCloud</uri><email>heige.pcloud@outlook.com</email></author><guid>https://waitbright.tech/helloworld2/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/theme-documentation-basics/featured-image.webp" referrerpolicy="no-referrer">
-            </div><p>探索 Hugo - <strong>DoIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+                <img src="/images/avatar.png" referrerpolicy="no-referrer">
+            </div><p>三星
+apple</p>]]></description>
 </item></channel>
 </rss>
