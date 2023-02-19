@@ -4,7 +4,7 @@ subtitle: ""
 date: 2023-01-01T00:40:36+08:00
 lastmod: 2023-01-01T00:40:36+08:00
 draft: false
-authors: [WaitBright, PCloud]
+authors: [waitbright, PCloud]
 description: ""
 
 tags: ["test"]
