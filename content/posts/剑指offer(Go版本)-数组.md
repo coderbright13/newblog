@@ -745,7 +745,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 - 思路：从左到右，从上到下，从右到左，从下到上依次遍历数组，用l,r,t,b四个指针用于限定遍历区间，遍历过程是循环的，每循环依次更新一次四个指针。O(mn)，O(1)
 
-![](Assets/Pasted%20image%2020220607211544.png)
+![](./Assets/Pasted%20image%2020220607211544.png)
 
 ```go
 func spiralOrder(matrix [][]int) []int {
