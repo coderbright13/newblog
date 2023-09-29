@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>系列 - series - WaitBright&#39;s Blog</title>
+        <link>https://waitbright.tech/series/</link>
+        <description>系列 - series - WaitBright&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2652214420@qq.com (WaitBright)</managingEditor>
+            <webMaster>2652214420@qq.com (WaitBright)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</lastBuildDate><atom:link href="https://waitbright.tech/series/" rel="self" type="application/rss+xml" /><item>
+    <title>剑指offer</title>
+    <link>https://waitbright.tech/series/%E5%89%91%E6%8C%87offer/</link>
+    <pubDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/series/%E5%89%91%E6%8C%87offer/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

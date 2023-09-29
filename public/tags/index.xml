@@ -1,0 +1,36 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>内容 - tag - WaitBright&#39;s Blog</title>
+        <link>https://waitbright.tech/tags/</link>
+        <description>内容 - tag - WaitBright&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2652214420@qq.com (WaitBright)</managingEditor>
+            <webMaster>2652214420@qq.com (WaitBright)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://waitbright.tech/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Go语言</title>
+    <link>https://waitbright.tech/tags/go%E8%AF%AD%E8%A8%80/</link>
+    <pubDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/tags/go%E8%AF%AD%E8%A8%80/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>数组</title>
+    <link>https://waitbright.tech/tags/%E6%95%B0%E7%BB%84/</link>
+    <pubDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/tags/%E6%95%B0%E7%BB%84/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>HTML</title>
+    <link>https://waitbright.tech/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Markdown</title>
+    <link>https://waitbright.tech/tags/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

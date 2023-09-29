@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>作者 - author - WaitBright&#39;s Blog</title>
+        <link>https://waitbright.tech/authors/</link>
+        <description>作者 - author - WaitBright&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2652214420@qq.com (WaitBright)</managingEditor>
+            <webMaster>2652214420@qq.com (WaitBright)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</lastBuildDate><atom:link href="https://waitbright.tech/authors/" rel="self" type="application/rss+xml" /><item>
+    <title>waitbright</title>
+    <link>https://waitbright.tech/authors/waitbright/</link>
+    <pubDate>Sun, 19 Feb 2023 19:34:30 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/authors/waitbright/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Dillon</title>
+    <link>https://waitbright.tech/authors/dillon/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><author>
+        <name>WaitBright</name>
+    </author><guid>https://waitbright.tech/authors/dillon/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
